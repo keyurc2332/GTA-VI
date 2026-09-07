@@ -1,0 +1,77 @@
+event,event_date,signal,before_mean,after_mean,observed_change,ci_95_lower,ci_95_upper
+Trailer 1 teaser image posted,2023-12-01,trends_signal,0.0504,0.1947,0.1443,0.0115,0.3757
+Trailer 1 teaser image posted,2023-12-01,wiki_signal,0.0006,0.3988,0.3982,0.0001,0.9994
+Trailer 1 teaser image posted,2023-12-01,youtube_signal,0.0063,0.2917,0.2854,0.0246,0.7305
+Trailer 1 teaser image posted,2023-12-01,avg_sentiment,-0.5859,0.0664,0.6523,0.3875,1.0787
+Trailer 1 released (leaked ~1 day early),2023-12-04,trends_signal,0.1775,0.0664,-0.1111,-0.3585,0.0367
+Trailer 1 released (leaked ~1 day early),2023-12-04,wiki_signal,0.0005,0.4415,0.441,0.1283,0.9995
+Trailer 1 released (leaked ~1 day early),2023-12-04,youtube_signal,0.0082,0.2835,0.2753,0.0,0.7285
+Trailer 1 released (leaked ~1 day early),2023-12-04,avg_sentiment,-0.1984,0.1988,0.3972,0.1033,0.6912
+Release window narrowed to Fall 2025,2024-05-16,trends_signal,0.0206,0.0241,0.0034,-0.0046,0.0115
+Release window narrowed to Fall 2025,2024-05-16,wiki_signal,0.0513,0.0495,-0.0018,-0.0105,0.009
+Release window narrowed to Fall 2025,2024-05-16,youtube_signal,0.0054,0.0,-0.0054,-0.0162,0.0
+Release window narrowed to Fall 2025,2024-05-16,avg_sentiment,0.5244,,,,
+Unverified insider claims internal delay to 2026,2024-09-07,trends_signal,0.0195,0.0206,0.0011,-0.0034,0.0069
+Unverified insider claims internal delay to 2026,2024-09-07,wiki_signal,0.0565,0.063,0.0065,-0.0008,0.0121
+Unverified insider claims internal delay to 2026,2024-09-07,youtube_signal,0.0,0.0,0.0,0.0,0.0
+Unverified insider claims internal delay to 2026,2024-09-07,avg_sentiment,,,,,
+Retailer listing claims Sept 2025 release date,2025-01-29,trends_signal,0.047,0.0447,-0.0023,-0.0183,0.0149
+Retailer listing claims Sept 2025 release date,2025-01-29,wiki_signal,0.1114,0.0947,-0.0167,-0.0245,-0.0088
+Retailer listing claims Sept 2025 release date,2025-01-29,youtube_signal,0.0,0.0162,0.0162,0.0,0.0487
+Retailer listing claims Sept 2025 release date,2025-01-29,avg_sentiment,,0.194,,,
+Take-Two Q3 earnings reaffirms release window,2025-02-06,trends_signal,0.0515,0.0412,-0.0103,-0.0252,0.0069
+Take-Two Q3 earnings reaffirms release window,2025-02-06,wiki_signal,0.1032,0.095,-0.0082,-0.0158,-0.0004
+Take-Two Q3 earnings reaffirms release window,2025-02-06,youtube_signal,0.0,0.0194,0.0194,0.0,0.0487
+Take-Two Q3 earnings reaffirms release window,2025-02-06,avg_sentiment,,0.097,,,
+First delay announced (Fall 2025 -> May 2026),2025-05-02,trends_signal,0.0596,0.1672,0.1077,0.0195,0.2062
+First delay announced (Fall 2025 -> May 2026),2025-05-02,wiki_signal,0.1218,0.3267,0.2049,0.0775,0.4041
+First delay announced (Fall 2025 -> May 2026),2025-05-02,youtube_signal,0.005,0.4149,0.4098,0.0974,0.9899
+First delay announced (Fall 2025 -> May 2026),2025-05-02,avg_sentiment,0.2003,0.0106,-0.1897,-0.3858,0.0821
+Trailer 2 released,2025-05-06,trends_signal,0.1409,0.0962,-0.0447,-0.1684,0.0619
+Trailer 2 released,2025-05-06,wiki_signal,0.1663,0.2744,0.1081,-0.0785,0.3594
+Trailer 2 released,2025-05-06,youtube_signal,0.0541,0.44,0.3858,0.0358,0.9408
+Trailer 2 released,2025-05-06,avg_sentiment,0.0074,0.0706,0.0632,-0.2456,0.372
+Rockstar fires 30+ staff; union-busting controversy,2025-10-30,trends_signal,0.0367,0.0722,0.0355,-0.0011,0.0848
+Rockstar fires 30+ staff; union-busting controversy,2025-10-30,wiki_signal,0.0743,0.1471,0.0728,0.0016,0.1815
+Rockstar fires 30+ staff; union-busting controversy,2025-10-30,youtube_signal,0.0243,0.0794,0.0551,-0.0106,0.1268
+Rockstar fires 30+ staff; union-busting controversy,2025-10-30,avg_sentiment,0.1654,-0.4901,-0.6555,-1.0593,-0.2587
+Second delay announced (May 2026 -> Nov 2026),2025-11-06,trends_signal,0.0653,0.0447,-0.0206,-0.0767,0.0183
+Second delay announced (May 2026 -> Nov 2026),2025-11-06,wiki_signal,0.0795,0.146,0.0664,-0.0068,0.1781
+Second delay announced (May 2026 -> Nov 2026),2025-11-06,youtube_signal,0.0244,0.0793,0.055,-0.0108,0.1269
+Second delay announced (May 2026 -> Nov 2026),2025-11-06,avg_sentiment,-0.4612,0.0925,0.5537,-0.2608,1.3682
+Best Buy marketing email leak fuels pre-order speculation,2026-05-14,trends_signal,0.2405,0.2131,-0.0275,-0.2268,0.1718
+Best Buy marketing email leak fuels pre-order speculation,2026-05-14,wiki_signal,0.088,0.1151,0.0271,0.0138,0.0444
+Best Buy marketing email leak fuels pre-order speculation,2026-05-14,youtube_signal,0.0032,0.0132,0.01,0.0036,0.0162
+Best Buy marketing email leak fuels pre-order speculation,2026-05-14,avg_sentiment,0.4135,-0.444,-0.8575,-1.0504,-0.6242
+Take-Two earnings call locks in release calendar (no further delay),2026-05-21,trends_signal,0.2394,0.1512,-0.0882,-0.2509,0.0481
+Take-Two earnings call locks in release calendar (no further delay),2026-05-21,wiki_signal,0.1012,0.1076,0.0063,-0.0138,0.0229
+Take-Two earnings call locks in release calendar (no further delay),2026-05-21,youtube_signal,0.0065,0.0099,0.0034,-0.0064,0.013
+Take-Two earnings call locks in release calendar (no further delay),2026-05-21,avg_sentiment,-0.0354,-0.4238,-0.3884,-1.0504,0.2736
+Official cover art revealed,2026-06-18,trends_signal,0.1936,0.5739,0.3803,0.0332,0.7576
+Official cover art revealed,2026-06-18,wiki_signal,0.0923,0.2449,0.1526,0.0758,0.2746
+Official cover art revealed,2026-06-18,youtube_signal,0.0067,0.2917,0.285,0.0134,0.462
+Official cover art revealed,2026-06-18,avg_sentiment,-0.7348,0.1724,0.9072,0.6409,1.1734
+Promo site updated with Ultimate Edition and Vintage Vice City Pack,2026-06-24,trends_signal,0.5017,0.3024,-0.1993,-0.685,0.1638
+Promo site updated with Ultimate Edition and Vintage Vice City Pack,2026-06-24,wiki_signal,0.1209,0.2074,0.0865,-0.0441,0.2428
+Promo site updated with Ultimate Edition and Vintage Vice City Pack,2026-06-24,youtube_signal,0.1319,0.1724,0.0405,-0.2382,0.3342
+Promo site updated with Ultimate Edition and Vintage Vice City Pack,2026-06-24,avg_sentiment,-0.1972,0.2693,0.4665,-0.4343,1.3673
+Pre-orders opened,2026-06-25,trends_signal,0.5017,0.3024,-0.1993,-0.685,0.1638
+Pre-orders opened,2026-06-25,wiki_signal,0.1209,0.2074,0.0865,-0.0441,0.2428
+Pre-orders opened,2026-06-25,youtube_signal,0.1319,0.1724,0.0405,-0.2382,0.3342
+Pre-orders opened,2026-06-25,avg_sentiment,-0.1972,0.2693,0.4665,-0.4343,1.3673
+Netflix partnership / Extended Look announced,2026-08-06,trends_signal,0.189,0.4536,0.2646,-0.0241,0.6392
+Netflix partnership / Extended Look announced,2026-08-06,wiki_signal,0.0659,0.1086,0.0427,0.0094,0.1015
+Netflix partnership / Extended Look announced,2026-08-06,youtube_signal,0.0071,0.0556,0.0485,0.0111,0.0751
+Netflix partnership / Extended Look announced,2026-08-06,avg_sentiment,0.4312,0.1819,-0.2493,-0.5924,0.1283
+CyberLeek leak wave begins,2026-08-18,trends_signal,0.2566,0.5533,0.2967,0.0893,0.5601
+CyberLeek leak wave begins,2026-08-18,wiki_signal,0.0737,0.264,0.1903,0.0957,0.3301
+CyberLeek leak wave begins,2026-08-18,youtube_signal,0.0301,0.427,0.3968,0.0643,0.7409
+CyberLeek leak wave begins,2026-08-18,avg_sentiment,0.3535,0.078,-0.2755,-0.609,0.0581
+CyberLeek posts additional leaks and map images,2026-08-25,trends_signal,0.4536,0.2692,-0.1844,-0.583,0.205
+CyberLeek posts additional leaks and map images,2026-08-25,wiki_signal,0.1086,0.2082,0.0995,-0.0955,0.2978
+CyberLeek posts additional leaks and map images,2026-08-25,youtube_signal,0.0556,0.4075,0.3519,-0.0359,0.7151
+CyberLeek posts additional leaks and map images,2026-08-25,avg_sentiment,0.1819,-0.1324,-0.3143,-1.014,0.2484
+Extended Look released on Netflix/YouTube,2026-08-27,trends_signal,0.4536,0.2692,-0.1844,-0.583,0.205
+Extended Look released on Netflix/YouTube,2026-08-27,wiki_signal,0.1086,0.2082,0.0995,-0.0955,0.2978
+Extended Look released on Netflix/YouTube,2026-08-27,youtube_signal,0.0556,0.4075,0.3519,-0.0359,0.7151
+Extended Look released on Netflix/YouTube,2026-08-27,avg_sentiment,0.1819,-0.1324,-0.3143,-1.014,0.2484

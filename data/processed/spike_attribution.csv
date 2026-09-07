@@ -1,0 +1,44 @@
+spike_week,matched_event,event_date,days_offset
+2023-05-07,UNEXPLAINED,,
+2023-05-14,UNEXPLAINED,,
+2023-05-21,UNEXPLAINED,,
+2023-06-04,UNEXPLAINED,,
+2023-06-18,UNEXPLAINED,,
+2023-10-22,UNEXPLAINED,,
+2023-11-05,UNEXPLAINED,,
+2023-12-03,Trailer 1 teaser image posted,2023-12-01,2.0
+2023-12-03,Trailer 1 released (leaked ~1 day early),2023-12-04,-1.0
+2023-12-10,Trailer 1 teaser image posted,2023-12-01,9.0
+2023-12-10,Trailer 1 released (leaked ~1 day early),2023-12-04,6.0
+2024-05-19,Release window narrowed to Fall 2025,2024-05-16,3.0
+2024-06-16,UNEXPLAINED,,
+2024-09-08,Unverified insider claims internal delay to 2026,2024-09-07,1.0
+2024-11-24,UNEXPLAINED,,
+2024-12-08,UNEXPLAINED,,
+2024-12-29,UNEXPLAINED,,
+2025-01-05,UNEXPLAINED,,
+2025-04-06,UNEXPLAINED,,
+2025-04-27,First delay announced (Fall 2025 -> May 2026),2025-05-02,-5.0
+2025-04-27,Trailer 2 released,2025-05-06,-9.0
+2025-05-04,First delay announced (Fall 2025 -> May 2026),2025-05-02,2.0
+2025-05-04,Trailer 2 released,2025-05-06,-2.0
+2025-05-11,First delay announced (Fall 2025 -> May 2026),2025-05-02,9.0
+2025-05-11,Trailer 2 released,2025-05-06,5.0
+2025-09-14,UNEXPLAINED,,
+2025-11-02,Rockstar fires 30+ staff; union-busting controversy,2025-10-30,3.0
+2025-11-02,Second delay announced (May 2026 -> Nov 2026),2025-11-06,-4.0
+2025-11-09,Rockstar fires 30+ staff; union-busting controversy,2025-10-30,10.0
+2025-11-09,Second delay announced (May 2026 -> Nov 2026),2025-11-06,3.0
+2026-01-04,UNEXPLAINED,,
+2026-04-05,UNEXPLAINED,,
+2026-04-26,UNEXPLAINED,,
+2026-05-17,Best Buy marketing email leak fuels pre-order speculation,2026-05-14,3.0
+2026-05-17,Take-Two earnings call locks in release calendar (no further delay),2026-05-21,-4.0
+2026-06-21,Official cover art revealed,2026-06-18,3.0
+2026-06-21,Promo site updated with Ultimate Edition and Vintage Vice City Pack,2026-06-24,-3.0
+2026-06-21,Pre-orders opened,2026-06-25,-4.0
+2026-08-23,CyberLeek leak wave begins,2026-08-18,5.0
+2026-08-23,CyberLeek posts additional leaks and map images,2026-08-25,-2.0
+2026-08-23,Extended Look released on Netflix/YouTube,2026-08-27,-4.0
+2026-08-30,CyberLeek posts additional leaks and map images,2026-08-25,5.0
+2026-08-30,Extended Look released on Netflix/YouTube,2026-08-27,3.0

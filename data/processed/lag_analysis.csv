@@ -1,0 +1,28 @@
+lag_weeks,correlation,pair
+-4,0.09865322138373031,Google Trends vs Wikipedia
+-3,0.08602849510102586,Google Trends vs Wikipedia
+-2,0.10000512946473698,Google Trends vs Wikipedia
+-1,0.18268882381191312,Google Trends vs Wikipedia
+0,0.343920914774194,Google Trends vs Wikipedia
+1,0.5926813088070568,Google Trends vs Wikipedia
+2,0.2925629009837918,Google Trends vs Wikipedia
+3,0.12895110131506018,Google Trends vs Wikipedia
+4,0.1308123838643895,Google Trends vs Wikipedia
+-4,0.009890987251039724,Google Trends vs YouTube
+-3,0.009496267949016143,Google Trends vs YouTube
+-2,0.029587410443675456,Google Trends vs YouTube
+-1,0.17526681839917696,Google Trends vs YouTube
+0,0.41789883985028337,Google Trends vs YouTube
+1,0.6509213988224026,Google Trends vs YouTube
+2,0.31459912391649403,Google Trends vs YouTube
+3,0.11443078651857783,Google Trends vs YouTube
+4,0.0959324085822074,Google Trends vs YouTube
+-4,0.028713448363239316,Wikipedia vs YouTube
+-3,0.03575713303426886,Wikipedia vs YouTube
+-2,0.05038051927485655,Wikipedia vs YouTube
+-1,0.26722954979374447,Wikipedia vs YouTube
+0,0.7905897631189965,Wikipedia vs YouTube
+1,0.2724028931419753,Wikipedia vs YouTube
+2,0.08117526678961108,Wikipedia vs YouTube
+3,0.04236319219415535,Wikipedia vs YouTube
+4,0.035777995231484935,Wikipedia vs YouTube

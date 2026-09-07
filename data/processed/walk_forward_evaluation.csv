@@ -1,0 +1,16 @@
+test_event,test_event_date,event_type,n_past_events_available,tuned_window,tuned_threshold,train_f1,caught
+Retailer listing claims Sept 2025 release date,2025-01-29,rumor,4,8,2.0,0.261,False
+Take-Two Q3 earnings reaffirms release window,2025-02-06,official,5,8,2.0,0.25,False
+First delay announced (Fall 2025 -> May 2026),2025-05-02,official,6,8,2.0,0.24,True
+Trailer 2 released,2025-05-06,official,7,12,2.5,0.423,True
+Rockstar fires 30+ staff; union-busting controversy,2025-10-30,controversy,8,12,2.5,0.455,True
+Second delay announced (May 2026 -> Nov 2026),2025-11-06,official,9,12,2.5,0.526,True
+Best Buy marketing email leak fuels pre-order speculation,2026-05-14,rumor,10,12,2.5,0.545,False
+Take-Two earnings call locks in release calendar (no further delay),2026-05-21,official,11,12,2.5,0.522,False
+Official cover art revealed,2026-06-18,official,12,12,2.0,0.5,True
+Promo site updated with Ultimate Edition and Vintage Vice City Pack,2026-06-24,marketing,13,12,2.5,0.56,True
+Pre-orders opened,2026-06-25,marketing,14,12,2.5,0.577,True
+Netflix partnership / Extended Look announced,2026-08-06,marketing,15,12,2.5,0.592,False
+CyberLeek leak wave begins,2026-08-18,leak,16,12,2.5,0.573,False
+CyberLeek posts additional leaks and map images,2026-08-25,leak,17,12,2.5,0.555,False
+Extended Look released on Netflix/YouTube,2026-08-27,official,18,8,2.0,0.588,True

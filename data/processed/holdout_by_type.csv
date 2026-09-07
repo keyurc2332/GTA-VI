@@ -1,0 +1,2 @@
+dev_types,holdout_types,n_dev_events,n_holdout_events,best_window,best_threshold,dev_f1,holdout_f1,holdout_precision,holdout_recall,gap
+"official, marketing, controversy","leak, rumor",14,5,12,2.5,0.612,0.0,0.0,0.0,0.612

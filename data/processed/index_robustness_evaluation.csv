@@ -1,0 +1,4 @@
+method,spikes_detected,events_total,events_caught,precision,recall,f1
+Equal-weight,30,19,16,0.433,0.842,0.572
+PCA-weighted,28,19,15,0.393,0.789,0.525
+Rank-based,20,19,11,0.45,0.579,0.506

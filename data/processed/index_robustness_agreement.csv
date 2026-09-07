@@ -1,0 +1,4 @@
+pair,pearson_r,spearman_rho,top10_overlap
+Equal-weight vs PCA-weighted,0.999,0.999,9/10
+Equal-weight vs Rank-based,0.663,0.955,8/10
+PCA-weighted vs Rank-based,0.649,0.961,9/10

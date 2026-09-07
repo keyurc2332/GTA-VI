@@ -1,0 +1,2 @@
+n_dev_events,n_holdout_events,best_window,best_threshold,dev_f1,holdout_f1,holdout_precision,holdout_recall,full_set_tuned_f1,tuning_gap
+12,7,12,2.0,0.5,0.076,0.042,0.429,0.595,0.519

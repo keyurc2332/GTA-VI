@@ -1,0 +1,20 @@
+held_out_event,event_type,tuned_window,tuned_threshold,dev_f1_on_remaining_20,held_out_event_caught
+Trailer 1 teaser image posted,official,8,2.0,0.588,True
+Trailer 1 released (leaked ~1 day early),official,8,2.0,0.588,True
+Release window narrowed to Fall 2025,official,8,2.0,0.609,False
+Unverified insider claims internal delay to 2026,rumor,8,2.0,0.554,True
+Retailer listing claims Sept 2025 release date,rumor,8,2.0,0.609,False
+Take-Two Q3 earnings reaffirms release window,official,8,2.0,0.609,False
+First delay announced (Fall 2025 -> May 2026),official,8,2.0,0.588,True
+Trailer 2 released,official,8,2.0,0.588,True
+Rockstar fires 30+ staff; union-busting controversy,controversy,8,2.0,0.588,True
+Second delay announced (May 2026 -> Nov 2026),official,8,2.0,0.588,True
+Best Buy marketing email leak fuels pre-order speculation,rumor,8,2.0,0.609,False
+Take-Two earnings call locks in release calendar (no further delay),official,8,2.0,0.609,False
+Official cover art revealed,official,8,2.0,0.588,True
+Promo site updated with Ultimate Edition and Vintage Vice City Pack,marketing,8,2.0,0.588,True
+Pre-orders opened,marketing,8,2.0,0.588,True
+Netflix partnership / Extended Look announced,marketing,8,2.0,0.609,False
+CyberLeek leak wave begins,leak,8,2.0,0.588,True
+CyberLeek posts additional leaks and map images,leak,8,2.0,0.588,True
+Extended Look released on Netflix/YouTube,official,8,2.0,0.588,True

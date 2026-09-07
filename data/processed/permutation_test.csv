@@ -1,0 +1,2 @@
+observed_f1,null_mean_f1,null_std_f1,p_value,n_permutations,n_events
+0.572,0.2956,0.0947,0.003,1000,19

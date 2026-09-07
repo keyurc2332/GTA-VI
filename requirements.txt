@@ -1,0 +1,14 @@
+pytrends
+pandas
+numpy
+scipy
+requests
+scikit-learn
+sentence-transformers
+vaderSentiment
+transformers
+hdbscan
+umap-learn
+plotly
+matplotlib
+streamlit

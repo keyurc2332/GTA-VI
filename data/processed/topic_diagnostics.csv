@@ -1,0 +1,13 @@
+variant,min_cluster_size,n_clusters,noise_pct
+"titles_only, no UMAP",3,11,64.9
+"titles_only, no UMAP",4,9,66.8
+"titles_only, no UMAP",5,8,71.6
+"titles_only, no UMAP",6,7,71.6
+"titles_only, no UMAP",8,3,78.9
+"titles_only, no UMAP",10,3,76.3
+"titles+desc, no UMAP",3,2,18.6
+"titles+desc, no UMAP",4,6,81.7
+"titles+desc, no UMAP",5,2,82.5
+"titles+desc, no UMAP",6,0,100.0
+"titles+desc, no UMAP",8,0,100.0
+"titles+desc, no UMAP",10,0,100.0
