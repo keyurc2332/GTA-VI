@@ -1,5 +1,8 @@
 # GTA VI Hype Intelligence
 
+**🔴 [Live demo](https://gta-vi.streamlit.app/)** — explore all 14 dashboard
+sections yourself, no setup needed.
+
 **I tested whether independent public signals — search interest,
 information-seeking, and creator activity — can be combined into a
 measurable proxy for public attention, and then tested where that measure
@@ -230,6 +233,10 @@ export YOUTUBE_API_KEY=your_key_here
 ```
 
 ## Run order
+
+*(Not needed just to explore the results — the [live demo](https://gta-vi.streamlit.app/)
+already has everything precomputed. This is for reproducing the pipeline
+yourself or regenerating the data.)*
 
 ```bash
 # 1. Collect raw data
